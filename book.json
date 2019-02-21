@@ -1,0 +1,14 @@
+{
+    "title" : "网络隐身指北",
+    "author" : "RileyGe",
+    "language" : "zh-hans",
+    "plugins": ["theme-comscore", "disqus", "-lunr", "-search", "search-plus", "splitter"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "wang-luo-yin-shen-zhi-bei"
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+    }  
+}
